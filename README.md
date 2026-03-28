@@ -29,7 +29,7 @@ pip install fitsms
 from fitsms import FitSMS
 
 api_token = 'YOUR_V4_API_TOKEN'
-sender_id = 'GlobalCloud'
+sender_id = 'YOUR_SENDER_ID'
 
 sms = FitSMS(api_token, sender_id)
 ```
@@ -173,7 +173,3 @@ Contributions, issues, and feature requests are welcome!
 ## 👨‍💻 Maintainer
 
 Maintained by [Global Cloud Media (pvt) Ltd.](https://globalcloudmedia.lk)
-
-## 👨‍💻 Author
-
-- [Danuja Dilanka](https://github.com/danuja-dilanka)
